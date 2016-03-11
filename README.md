@@ -19,7 +19,7 @@ Managing the state of each H bridge can clutter your code quite quickly, so I qu
 
 Features
 --------
-* Super simple API, just one command!
+* Super simple API, just a few commands!
 * Delivers a carefully timed pulse to the turnout coil; long enough to positively switch the turnout, short enough not to overheat the coil.
 * Turns off power to the turnout after a short delay, reducing the power usage of your circuits.
 * Non-blocking, so your sketch won't halt while the turnout is pulsed. This makes it easy to continue doing other tasks while driving your turnouts.

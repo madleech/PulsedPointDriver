@@ -1,7 +1,7 @@
 /*
 	TurnoutPulser - a small library for Arduino to briefly trigger a turnout coil.
 	
-	Released into the public domain.
+	MIT licensed.
 */
 
 #include "TurnoutPulser.h"
